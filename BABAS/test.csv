@@ -1,4 +1,4 @@
-id,empirical,experimental,theoretical,aquatic,terrestrial
-paper1,1,0,0,1,0
-paper2,1,0,0,1,0
-paper3,0,1,0,0,1
+id;empirical;experimental;theoretical;aquatic;terrestrial
+paper1;1;0;0;1;0
+paper2;1;0;0;1;0
+paper3;0;1;0;0;1
